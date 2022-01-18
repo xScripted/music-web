@@ -10,8 +10,12 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "howler": "^2.2.3",
+    "mitt": "^3.0.0",
+    "uuid": "^8.3.2",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
+    "vue-toast-notification": "^2.0",
     "vuex": "^4.0.0-0"
   },
   "devDependencies": {
@@ -27,7 +31,7 @@
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^7.0.0",
     "sass": "^1.26.5",
-    "sass-loader": "^8.0.2",
+    "sass-loader": "10.1.1",
     "typescript": "~3.9.3",
     "vue-jest": "^5.0.0-0"
   }
